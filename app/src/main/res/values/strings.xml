@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SupperApp</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Kontakte</string>
+    <string name="about_text">Über uns</string>
+    <string name="main_scene_text">Startseite</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="appLogo">App</string>
+    <string name="course_start_date">Beginn der Ausbildung:</string>
+    <string name="course_level">Niveau:</string>
+    <string name="courseDesc">Java-Schulungsprogramm - für diejenigen, die neu in diesem Bereich sind.    Während des Programms werden Sie lernen, wie man grafische Anwendungen für den PC erstellt, Websites auf der Basis von Java Spring Boot entwickelt, wie man vollwertige Android-Anwendungen erstellt und die Sprache Java selbst erlernt!</string>
+    <string name="filter_button">Filter Button</string>
+
+</resources>
